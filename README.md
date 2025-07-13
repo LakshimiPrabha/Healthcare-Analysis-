@@ -3,6 +3,7 @@
 This project is a comprehensive Power BI dashboard designed to uncover insights from healthcare data, focusing on patient demographics, hospital operations, financial trends, and clinical outcomes. The dataset was sourced from **Onyx Data's Monthly Challenge**.
 
 ---
+## Live Dashboard link:  https://lnkd.in/g9xd2XdZ.
 
 ## 📊 Project Overview
 
